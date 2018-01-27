@@ -55,7 +55,10 @@ module.exports = class {
 
 
 ### testing 
-
+to run the test type in the following in the terminal 
+```javascirpt
+npm test stack.test.js
+```
 
 ### test block 1.
 these test checks to see if the constructor is working
@@ -206,7 +209,10 @@ module.exports = class {
 
 
 ### testing 
-
+to run the test type in the following in the terminal 
+```javascirpt
+npm test queue.test.js
+```
 
 ### test block 1.
 these test checks to see if the constructor is working.
